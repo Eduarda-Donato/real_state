@@ -8,9 +8,11 @@ Este projeto utiliza técnicas de Ciência de Dados e Machine Learning para prev
 
 ## Objetivos
 
-- Fazer **exploração de dados (EDA)** para entender padrões de preço, distribuição por cidade/região e demais estatísticas.
-- Realizar **modelagem preditiva** (exemplo: regressão ou clustering) para identificar fatores que influenciam preços ou agrupar perfis de imóveis.
-- Desenvolver insights úteis para corretoras ou compradores.
+- Fazer exploração de dados (EDA) para entender padrões de preço, distribuição por cidade/região e demais estatísticas.
+
+- Aplicar Random Forest para prever preços de imóveis e identificar quais fatores mais influenciam o valor (feature importance).
+
+- Desenvolver insights úteis para corretoras ou compradores com base nos resultados do modelo e na análise exploratória.
 
 ## Metodologia
 
