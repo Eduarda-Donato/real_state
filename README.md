@@ -40,7 +40,7 @@ Este projeto utiliza técnicas de Ciência de Dados e Machine Learning para prev
 ![Distribuição de Preços](images/price_distribution.png)
 
 ### Correlação entre Variáveis
-![Matriz de Correlação](images/matriz_correlacao.png)
+![Matriz de Correlação](images/correlation_matrix.png)
 
 ### Importância das Features
 ![Importância das Variáveis](images/feature_importance.png) 
